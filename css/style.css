@@ -21,3 +21,35 @@ body{
    vertical-align: top;
    color: rgb(1, 1, 88);
 }
+
+/* main */
+
+main{
+    background-color:rgb(201, 198, 198);
+}
+
+.container-white{
+    background-color: white;
+    width: 80%;
+    margin:0 auto;
+    padding-left:40px;
+}
+
+/* header  main */
+
+.container-button{
+    margin-bottom: 5px;
+}
+
+.add-task-button{
+    background-color: rgb(6, 155, 255);
+    padding:5px;
+    border-radius: 3px;
+    border:1px solid black;
+}
+
+.add-section-button{
+    border-radius: 3px;
+    border:1px solid black;
+    padding:5px;
+}
