@@ -53,32 +53,26 @@ main{
     padding:0 0 10px 40px;
 }
 
-/* Aggiustare proprietà tasti in comune */
-
-.button{
-    padding-bottom: 10px;
-}
-
-.add-task-button{
+.common-button-properties{
     text-align: center;
     display:inline-block;
     margin-top:20px;
     border: 1px solid black;
     border-radius: 3px;
     padding: 5px;
+}
 
+.button{
+    padding-bottom: 10px;
+}
+
+.add-task-button{
     margin-left:10px;
     background-color: rgb(15, 174, 228);
     color:white;
 }
 
 .add-section-button{
-    text-align: center;
-    display:inline-block;
-    margin-top: 20px;
-    border: 1px solid black;
-    border-radius: 3px;
-    padding:5px;
     color:lightgray;
     
 }
@@ -120,7 +114,7 @@ li{
 .text-color-white{
     color:white;
     border-radius: 10px;
-    padding: 5px 10px;
+    padding: 5px 15px;
     font-size: 13px;
 }
 
