@@ -1,0 +1,23 @@
+/* reset */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* body selectors */
+body{
+    margin-top: 10px;
+}
+
+/* header selctors */
+.logo {
+    margin-left: 20px;
+    width:70px;    
+}
+
+.title-header {
+   font-size: 50px;
+   vertical-align: top;
+   color: rgb(1, 1, 88);
+}
