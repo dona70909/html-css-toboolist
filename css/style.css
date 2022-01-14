@@ -96,6 +96,14 @@ li{
     background-color: rgb(15, 174, 228);
 }
 
+/* formattazione comune testo */
+.text-color-white{
+    color:white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 13px;
+}
+
 #purple{
     background-color: rgba(126, 4, 126, 0.836);
 }
@@ -116,10 +124,3 @@ li{
     background-color: lightgreen;
 }
 
-/* formattazione comune testo */
-.text-color-white{
-    color:white;
-    border-radius: 10px;
-    padding: 5px 10px;
-    font-size: 13px;
-}
