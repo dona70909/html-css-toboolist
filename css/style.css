@@ -74,11 +74,21 @@ main{
 
 ul{
     padding:0;
+    list-style: none;
 }
 
 .title-list{
     font-size: 25px;
     font-weight: 800;
     
+    
+}
+
+.check{
+
+}
+
+.cross{
+
 }
 
